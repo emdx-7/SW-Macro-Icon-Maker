@@ -1,4 +1,6 @@
-inputs/
-outputs/
+inputs/*
+outputs/*
+!inputs/.gitkeep
+!outputs/.gitkeep
 __pycache__/
 *.pyc
