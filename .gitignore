@@ -2,5 +2,13 @@ inputs/*
 outputs/*
 !inputs/.gitkeep
 !outputs/.gitkeep
+!inputs/nyancat1.jpg
+!inputs/nyancat2.png
+!inputs/nyancat3.png
+!inputs/miku2.jpg
+!inputs/teto1.jpg
+!inputs/teto2.webp
+!inputs/teto3.jpg
+!inputs/sleepy.jpg
 __pycache__/
 *.pyc
