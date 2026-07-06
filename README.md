@@ -25,6 +25,5 @@ PNG, JPG, JPEG, TIFF, TIF, GIF, WEBP, BMP
 
 ## Notes
 
-- Keep your icon design simple — it's only 20x20
-- White areas in the output will appear transparent on the SolidWorks toolbar
-- Works with SolidWorks 2016 and newer (2025 confirmed)
+- Detailed pictures get cooked since SW only supports small bitmap
+- White areas become transparent (so grey/white) in the SolidWorks top bar
