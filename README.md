@@ -2,7 +2,7 @@
 
 Converts images to BMP files usable as **SolidWorks macro toolbar icons**.
 
-Output format: 20x20 pixels, 8-bit 256-color, white background (white = transparent on the toolbar).
+Output format: 8-bit 256-color, white background bitmap file
 
 ## Setup
 
