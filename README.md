@@ -7,7 +7,11 @@ Output format: 8-bit 256-color, white background bitmap file
 ## Setup
 
 ```
-pip install pillow
+install python
+python -m pip install pillow
+
+(python might be python3, py, py3, or wtv on your pc)
+you dont need a venv not deep
 ```
 
 ## Usage
